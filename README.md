@@ -1,3 +1,4 @@
+**RISHITA GAGRANI**
 Welcome to my special repository, where the possibilities of technology meet the creativity of UI/UX design. Prepare to embark on a captivating journey through a world of interactive and innovative interfaces.
 
 👀 About Me
