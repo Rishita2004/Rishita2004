@@ -1,6 +1,6 @@
-**RISHITA GAGRANI**
+RISHITA GAGRANI
 
-Welcome to my special repository, where the possibilities of technology meet the creativity of UI/UX design. Prepare to embark on a captivating journey through a world of interactive and innovative interfaces.
+🌟 Welcome to my special repository, where the possibilities of technology meet the creativity of UI/UX design. Prepare to embark on a captivating journey through a world of interactive and innovative interfaces.
 
 👀 About Me
 I'm Rishita Gagrani, a UI/UX designer with an insatiable love for technology. Join me as I explore the realm of user interfaces, showcasing my design skills and sharing my passion for creating delightful experiences.
