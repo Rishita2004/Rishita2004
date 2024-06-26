@@ -2,8 +2,6 @@
 <h3 align="center">A passionate UI/UX Designer and Data Enthusiast. My desire to know all that there is to know in this beautiful cosmos bleeds through and colours everything that I do- my daily dose of adrenaline rush comes from figuring things out.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishita2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishita2004" alt="rishita2004" /></a> </p>
-
 - 🔭 I’m currently working on **KamaGPT**
 
 - 💬 Ask me about **Designing, PyTorch, Stable Diffusion, LLMs**
