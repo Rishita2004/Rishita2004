@@ -1,29 +1,27 @@
-RISHITA GAGRANI
+<h1 align="center">Hi 👋, I'm Rishita Gagrani</h1>
+<h3 align="center">A passionate UI/UX Designer and Data Enthusiast. My desire to know all that there is to know in this beautiful cosmos bleeds through and colours everything that I do- my daily dose of adrenaline rush comes from figuring things out.</h3>
+<img align="right" alt= "Desiging" width="400" src="https://drive.google.com/file/d/1OkCK1CvjeGQPUMYHdc2A51fUWI7ioqqK/view?usp=sharing">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishita2004" /> </p>
 
-🌟 Welcome to my special repository, where the possibilities of technology meet the creativity of UI/UX design. Prepare to embark on a captivating journey through a world of interactive and innovative interfaces.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishita2004" alt="rishita2004" /></a> </p>
 
-👀 About Me
+- 🔭 I’m currently working on **KamaGPT**
 
-I'm Rishita Gagrani, a UI/UX designer with an insatiable love for technology. Join me as I explore the realm of user interfaces, showcasing my design skills and sharing my passion for creating delightful experiences.
+- 💬 Ask me about **Designing, PyTorch, Stable Diffusion, LLMs**
 
-🌱 Learning and Stretching Boundaries
+- 📫 How to reach me **rishitagagrani03@gmail.com**
 
-In this repository, I'm not just limited to UI/UX design. I'm also diving into the world of full-stack web development, expanding my horizons across various domains.
+- ⚡ Fun fact **My desire to know all that there is to know in this beautiful cosmos bleeds through and colours everything that I do- my daily dose of adrenaline rush comes from figuring things out.**
 
-🤝 Collaboration and Impact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishita gagrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita gagrani" height="30" width="40" /></a>
+<a href="https://instagram.com/3.rishita_gagrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3.rishita_gagrani" height="30" width="40" /></a>
+</p>
 
-If you're looking for a dedicated UI/UX designer to bring your vision to life or to collaborate on an exciting project, I would be thrilled to be part of it.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-💡 The Power of Machine Learning
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita2004&show_icons=true&locale=en&layout=compact" alt="rishita2004" /></p>
 
-I've had the privilege of working on fascinating projects involving Machine Learning (ML). By combining my expertise in UI/UX design with the power of ML, I've crafted intuitive interfaces that make complex tasks feel effortless. Let's leverage this powerful combination to create something truly remarkable.
-
-📫 Get in Touch
-
-If you're eager to connect and explore potential collaborations, don't hesitate to reach out to me at rishitagagrani03@gmail.com. Let's turn ideas into reality and shape the future of user interfaces together.
-
-🚀 Start Exploring
-
-Now, it's time to dive into my repository and experience the convergence of technology and design. Get ready to be inspired, captivated, and amazed. The possibilities are endless, and the journey awaits!
-
-🎉 Let's make every interaction delightful and every interface unforgettable. Together, we'll create experiences that leave a lasting impression.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishita2004&show_icons=true&locale=en" alt="rishita2004" /></p>
