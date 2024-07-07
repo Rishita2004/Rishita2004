@@ -2,13 +2,13 @@
 <h3 align="center">A passionate UI/UX Designer and Data Enthusiast. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishita2004" /> </p>
 
-- 🔭 I’m currently working on **KamaGPT**
+- 🔭 I’m currently working on **GenAI**
 
 - 💬 Ask me about **Designing, PyTorch, Stable Diffusion, LLMs**
 
 - 📫 How to reach me **rishitagagrani03@gmail.com**
 
-- ⚡ Fun fact **My desire to know all that there is to know in this beautiful cosmos bleeds through and colours everything that I do- my daily dose of adrenaline rush comes from figuring things out.**
+- ⚡ Fun fact **My desire to know all there is to know in this beautiful cosmos bleeds through and colors everything that I do- my daily adrenaline rush comes from figuring things out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
